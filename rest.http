@@ -5,7 +5,7 @@ Content-Type: application/json
 {
     "name": "Adarsh Agnihotri",
     "company": "Company name",
-    "address": "Some address Sydney",
+    "address": "Some address",
     "phone": "041000000",
     "email": "e2@e.com1",
     "password": "secret222"

@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "DentedCode",
+  "author": "Adarsh Agnihotri",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
