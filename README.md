@@ -22,10 +22,10 @@ CAMI is a personal project designed to streamline customer interactions, issue t
 - **Organization:** Centralize customer-related activities for better management.
 - **Scalability:** Customize to fit the unique needs of any business.
 
-![Assign Image](/Users/adarsh/cursor-ai-project/cami_backend/src/images/Assign.png)
-![Assign Image 2](/Users/adarsh/cursor-ai-project/cami_backend/src/images/Assign2.png)
-![Conversations Image](/Users/adarsh/cursor-ai-project/cami_backend/src/images/conversations.png)
-![Team Member UI Image](/Users/adarsh/cursor-ai-project/cami_backend/src/images/teamMemberUI.png)
+![Assign Image](https://www.hubspot.com/hs-fs/hubfs/CRM_CRM-overview-2.png?width=2060&name=CRM_CRM-overview-2.png)
+![Assign Image 2](https://www.hubspot.com/hubfs/CRM_Customer-relationships.png)
+![Conversations Image](https://www.hubspot.com/hubfs/CRM_Inbox.png)
+![Team Member UI Image](https://www.hubspot.com/hubfs/CRM_Email-template.png)
 
 
 ## Get Started:
